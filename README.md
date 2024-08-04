@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.instagram.com/armyc0mm_" target="_blank"><img src="https://img.shields.io/badge/armyc0mm_-3399FF?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/armyc0mm_" target="_blank"><img src="https://img.shields.io/badge/tlfj02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
